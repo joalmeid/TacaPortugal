@@ -2,7 +2,7 @@ define(function(require, exports, module) {
 
 var SlideData = {
         picasaUrl: 'https://picasaweb.google.com/data/feed/api/all',
-        queryParams: '?kind=photo&q=Jorge Jesus Sporting&max-results=5&imgmax=720&alt=json',
+        queryParams: '?kind=photo&q=Taca Portugal Sporting&max-results=5&imgmax=720&alt=json',
         defaultImage: 'https://lh4.googleusercontent.com/-HbYp2q1BZfQ/U3LXxmWoy7I/AAAAAAAAAJk/VqI5bGooDaA/s1178-no/1.jpg'
     };
 
